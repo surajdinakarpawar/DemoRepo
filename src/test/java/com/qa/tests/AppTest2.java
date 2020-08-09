@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 /**
- * Unit test
+ * Unit test.
  */
 
 public class AppTest2 
