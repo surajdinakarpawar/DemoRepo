@@ -4,10 +4,10 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 /**
- * Unit test for duplicate App.
+ * Unit test for simple App.
  */
 
-public class AppTest2 
+public class AppTest3 
 {
     
     @Test
