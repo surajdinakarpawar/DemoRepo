@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 /**
- * Unit test for simple App.
+ * Unit test for simpler App.
  */
 
 public class AppTest3 
